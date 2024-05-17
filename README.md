@@ -1,3 +1,3 @@
 # Baze-de-date
-BD + SGBD 2023-2024
+BD + SGBD Oracle 2023-2024
  
